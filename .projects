@@ -57,3 +57,8 @@ function lap_env()
  source ~/.env/.lap_environment
 }
 
+function sky_env()
+{
+ source ~/.env/.sky_environment
+}
+
