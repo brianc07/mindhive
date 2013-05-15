@@ -14,7 +14,7 @@ export PATH=/software/DTIPrep/1.1.6:$PATH
 export PATH=/software/matlab_versions/2010b/bin/:$PATH
 
 # Freesurfer
-export SUBJECTS_DIR=/mindhive/xnat/surfaces/LAP
+export SUBJECTS_DIR=/mindhive/xnat/surfaces/SKY
 
 # Project name for prompt
 export project_name="SKY"
